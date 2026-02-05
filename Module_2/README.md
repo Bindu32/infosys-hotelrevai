@@ -10,3 +10,6 @@ The objective of this module is to track and evaluate Occupancy Rate, Average Da
 - Time-based performance analysis (daily, weekly, seasonal)
 - Comparison of Direct vs OTA booking contributions
 - High-level KPI monitoring with interactive drilldowns
+
+## Outcome
+By the end of this module, users will be able to clearly understand how occupancy and pricing impact overall revenue, identify peak and low-demand periods, and assess the effectiveness of different booking channels through intuitive dashboards and KPIs.
