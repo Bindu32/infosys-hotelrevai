@@ -113,6 +113,7 @@ DIVIDE (
 ```
 
 ### Step 4: Report Analysis
+<img width="1371" height="774" alt="Occupancy   Revenue Analysis" src="https://github.com/user-attachments/assets/3cd017c2-8dbd-4649-9834-290861fad3de" />
 
 
 ## Outcome
