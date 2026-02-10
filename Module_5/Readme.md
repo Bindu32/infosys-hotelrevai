@@ -1,4 +1,4 @@
-# Hospitality Revenue Analysis Dashboard 🏨
+# Revenue Strategy Analysis Dashboard 🏨
 
 ## Project Overview
 This Power BI project provides a deep-dive analysis of revenue and performance metrics for a hotel chain. The dashboard is designed to help stakeholders monitor business health, optimize pricing strategies, and understand booking behaviors across different cities and property categories.
