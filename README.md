@@ -229,6 +229,7 @@ SUMMARIZE(
 # 💰 Revenue Strategy Dashboard
 
 Focused on dynamic pricing and upsell revenue optimization.
+Developed by Krishnarjun Shaji
 
 ## Estimated Upsell Revenue
 ```dax
